@@ -1,0 +1,66 @@
+[submodule "web/KAF-2019-HappyCake"]
+	path = web/KAF-2019-HappyCake
+	url = https://github.com/KipodAfterFree/KAF-2019-HappyCake
+[submodule "web/KAF-2019-HappyCake2"]
+	path = web/KAF-2019-HappyCake2
+	url = https://github.com/KipodAfterFree/KAF-2019-HappyCake2
+[submodule "web/KAF-2019-VeriPieo"]
+	path = web/KAF-2019-VeriPieo
+	url = https://github.com/KipodAfterFree/KAF-2019-VeriPieo
+[submodule "web/KAF-2019-AppPackager"]
+	path = web/KAF-2019-AppPackager
+	url = https://github.com/KipodAfterFree/KAF-2019-AppPackager
+[submodule "web/KAF-2019-DigiBook"]
+	path = web/KAF-2019-DigiBook
+	url = https://github.com/KipodAfterFree/KAF-2019-DigiBook
+[submodule "web/KAF-2019-ChatM8"]
+	path = web/KAF-2019-ChatM8
+	url = https://github.com/KipodAfterFree/KAF-2019-ChatM8
+[submodule "web/KAF-2019-CatGallery2k20"]
+	path = web/KAF-2019-CatGallery2k20
+	url = https://github.com/KipodAfterFree/KAF-2019-CatGallery2k20
+[submodule "cryptography/KAF-2019-SmpleKye"]
+	path = cryptography/KAF-2019-SmpleKye
+	url = https://github.com/KipodAfterFree/KAF-2019-SmpleKye
+[submodule "cryptography/KAF-2019-SafeCrafter"]
+	path = cryptography/KAF-2019-SafeCrafter
+	url = https://github.com/KipodAfterFree/KAF-2019-SafeCrafter
+[submodule "cryptography/KAF-2019-Hypocrypt"]
+	path = cryptography/KAF-2019-Hypocrypt
+	url = https://github.com/KipodAfterFree/KAF-2019-Hypocrypt
+[submodule "cryptography/KAF-2019-BackHash"]
+	path = cryptography/KAF-2019-BackHash
+	url = https://github.com/KipodAfterFree/KAF-2019-BackHash
+[submodule "cryptography/KAF-2019-MaybeMaybeMaybe"]
+	path = cryptography/KAF-2019-MaybeMaybeMaybe
+	url = https://github.com/KipodAfterFree/KAF-2019-MaybeMaybeMaybe
+[submodule "reversing/KAF-2019-FireHog"]
+	path = reversing/KAF-2019-FireHog
+	url = https://github.com/KipodAfterFree/KAF-2019-FireHog
+[submodule "reversing/KAF-2019-GameBob"]
+	path = reversing/KAF-2019-GameBob
+	url = https://github.com/KipodAfterFree/KAF-2019-GameBob
+[submodule "reversing/KAF-2019-DKDOS"]
+	path = reversing/KAF-2019-DKDOS
+	url = https://github.com/KipodAfterFree/KAF-2019-DKDOS
+[submodule "reversing/KAF-2019-Slicense"]
+	path = reversing/KAF-2019-Slicense
+	url = https://github.com/KipodAfterFree/KAF-2019-Slicense
+[submodule "miscellaneous/KAF-2019-Dumbuth"]
+	path = miscellaneous/KAF-2019-Dumbuth
+	url = https://github.com/KipodAfterFree/KAF-2019-Dumbuth
+[submodule "miscellaneous/KAF-2019-Dinary"]
+	path = miscellaneous/KAF-2019-Dinary
+	url = https://github.com/KipodAfterFree/KAF-2019-Dinary
+[submodule "miscellaneous/KAF-2019-Spinupavm"]
+	path = miscellaneous/KAF-2019-Spinupavm
+	url = https://github.com/KipodAfterFree/KAF-2019-Spinupavm
+[submodule "miscellaneous/KAF-2019-Shebang"]
+	path = miscellaneous/KAF-2019-Shebang
+	url = https://github.com/KipodAfterFree/KAF-2019-Shebang
+[submodule "miscellaneous/KAF-2019-XDB"]
+	path = miscellaneous/KAF-2019-XDB
+	url = https://github.com/KipodAfterFree/KAF-2019-XDB
+[submodule "miscellaneous/KAF-2019-QueueR"]
+	path = miscellaneous/KAF-2019-QueueR
+	url = https://github.com/KipodAfterFree/KAF-2019-QueueR
